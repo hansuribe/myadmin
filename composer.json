@@ -1,0 +1,12 @@
+{
+    "name": "oac4/c4-phpmyadmin",
+    "description": "Our PhpMyAdmin application on Heroku",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David Gersting",
+            "email": "dgersting@oa-c4.org"
+        }
+    ],
+    "require": {}
+}
